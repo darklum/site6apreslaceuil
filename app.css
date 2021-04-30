@@ -1,0 +1,23 @@
+body {
+    background-color: black
+}
+
+h1 {
+    font-size: 60px;
+    color: #f1f1f1;
+    font-family: Abril fatface, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 {
+    font-size: 40px;
+    color: #f1f1f1;
+    font-family: Abril fatface, sans-serif;
+}
+
+body {
+    background-image: url(fond.jpg);
+}
